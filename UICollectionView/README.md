@@ -6,6 +6,6 @@
 
 ### 知识性学习
 
-* [《[标哥的COLLECTIONVIEW专题](http://www.henishuo.com/category/uicollectionview-subject/)》笔记](./henishuo_uicollectionview-subject.md)
+- 《[标哥的COLLECTIONVIEW专题](http://www.henishuo.com/category/uicollectionview-subject/)》[笔记](./henishuo_uicollectionview-subject.md)
 
 ### 代码实践
