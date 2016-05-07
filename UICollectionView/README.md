@@ -12,6 +12,8 @@
 
 ### 代码实践
 
+- [HeNiShuoCollectionViewDemo](./HeNiShuoCollectionViewDemo)
+
 ### 遇到的坑
 
 - automaticallyAdjustsScrollViewInsets：`Default value is YES, which allows the view controller to adjust its scroll view insets in response to the screen areas consumed by the status bar, navigation bar, and toolbar or tab bar. Set to NO if you want to manage scroll view inset adjustments yourself.`，UICollectionView 不能顶端显示的罪魁祸首。

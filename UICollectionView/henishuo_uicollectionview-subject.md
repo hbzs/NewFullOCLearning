@@ -31,4 +31,16 @@
     + collectionView:didSelectItemAtIndexPath:
     + collectionView:didDeselectItemAtIndexPath:
 
+## UICollectionViewFlowLayout 属性
+- minimumLineSpacing
+- minimumInteritemSpacing
+- itemSize
+- estimatedItemSize（8.0）
+- scrollDirection
+- headerReferenceSize
+- footerReferenceSize
+- sectionInset
+- sectionHeadersPinToVisibleBounds（9.0）
+- sectionFootersPinToVisibleBounds（9.0）
 
+## 自定义布局 API
