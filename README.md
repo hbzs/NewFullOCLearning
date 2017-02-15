@@ -4,5 +4,5 @@
 
 - [JavaScriptCore](./JavaScriptCore)
 - [UI](./UI)
-  - [UITableView&UICollectionView](./UI/UITableViewAndUICollectionView/README.md)
+  - [UITableView&UICollectionView](./UI/UITableViewAndUICollectionView)
 
